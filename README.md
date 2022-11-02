@@ -109,7 +109,7 @@ problem we are solving.
 
 There are three functions that have been declared for you. You will need to fill in the following code:
 
-* `scuberGreetingForFeet()` — Use `if` and `else if` statements to return the
+* `scuberGreetingForFeet()` — Use `if` and `else if` staements to return the
 correct greeting based on the distance the passenger desires to travel.
 * `ternaryCheckCity()` — Use a ternary operator to return the correct response
 based on the desired destination of the passenger.
